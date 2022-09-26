@@ -1,0 +1,18 @@
+{
+    "name": "karlhsu/agora",
+    "description": "声网sdk",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Karlhsu\\Agora\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "KarlHsu",
+            "email": "karlxu0424@gmail.com"
+        }
+    ],
+    "require": {}
+}
