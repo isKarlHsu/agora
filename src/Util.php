@@ -1,4 +1,5 @@
 <?php
+namespace Karlhsu\Agora;
 
 class Util
 {

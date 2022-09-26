@@ -1,4 +1,5 @@
 <?php
+namespace Karlhsu\Agora;
 
 require_once "AccessToken.php";
 
